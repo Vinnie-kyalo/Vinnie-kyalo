@@ -1,5 +1,5 @@
-(![image](https://github.com/user-attachments/assets/7b7f7cfe-b27d-4f09-b725-685138626058)
-)
+![image](https://github.com/user-attachments/assets/7b7f7cfe-b27d-4f09-b725-685138626058)
+
 👋 Hi, I’m **@Vinnie-kyalo** – a passionate **programmer** and **web designer** with a **Bachelor of Science in Information Technology** from **Pwani University**.
 
 - 👀 I’m interested in **web development**, **machine learning**, **game development**, **artificial intelligence**, **Django**, **MySQL**, and creating **secure and efficient** applications.
