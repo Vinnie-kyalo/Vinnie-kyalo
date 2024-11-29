@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/7b7f7cfe-b27d-4f09-b725-685138626058)
+<p align="center">
+  <img src="https://drive.google.com/file/d/12RIx3f8NWSEHA25Xk5hjiaEXurxGJD5P/view?usp=sharing" width="200" />
+  <img src="https://github.com/Vinnie-kyalo/your-repo-name/raw/main/images/image2.jpg" width="200" />
+  <img src="https://github.com/Vinnie-kyalo/your-repo-name/raw/main/images/image3.jpg" width="200" />
+</p>
 
 👋 Hi, I’m **@Vinnie-kyalo** – a passionate **programmer** and **web designer** with a **Bachelor of Science in Information Technology** from **Pwani University**.
 
