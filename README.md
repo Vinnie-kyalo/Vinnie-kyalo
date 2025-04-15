@@ -40,7 +40,7 @@
 
 ### 📄 Download My CV
 
-👉 [Download My CV](https://drive.google.com/uc?export=download&id=**your-cv-file-id**)
+👉 [Download My CV](https://github.com/Vinnie-kyalo/updated_portfolio/blob/master/assets/documents/cv.pdf)
 
 > ℹ️ Replace `**your-cv-file-id**` with the actual Google Drive ID of your CV file.
 
