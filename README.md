@@ -1,14 +1,11 @@
 <!-- GitHub Banner Image -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1G_CK2y5nJnigRaMsE9ryLfbdxL3V_-4g" alt="Vincent Kyalo Banner" width="100%" />
-</p>
 
 ---
 
 ### 👋 Hi there, I’m **@Vinnie-kyalo**
 
 **I am Vincent Kyalo**, a passionate **programmer**, **web designer**, **data analyst**, and **ethical hacker**.  
-🎓 Bachelor of Science in Information Technology – *Pwani University*
+🎓 Diploma in Information Technology – *Pwani University*
 
 ---
 
@@ -21,8 +18,7 @@
   `Machine Learning Projects`, `Game Development`, `Django Applications`, `APIs`, `MySQL DB`, `Ethical Hacking`
 - 📫 Reach me:  
   [📧 Email](mailto:vinnykyalo9875@gmail.com) | [💻 GitHub](https://github.com/Vinnie-kyalo)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun Fact: I enjoy building web systems like **Sacco Management Systems** and **School Management Systems**
+
 
 ---
 
