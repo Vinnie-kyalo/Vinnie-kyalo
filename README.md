@@ -10,7 +10,7 @@
 ### 👋 Hi there, I’m **@Vinnie-kyalo**
 
 **I am Vincent Kyalo**, a passionate **programmer**, **web designer**, **data analyst**, and **ethical hacker**.  
-🎓 Diploma in Information Technology – *Pwani University*
+
 
 ---
 
