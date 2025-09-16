@@ -42,6 +42,4 @@
 
 ---
 
-### 📄 Download My CV
 
-👉 [Download My CV](https://github.com/Vinnie-kyalo/updated_portfolio/blob/master/assets/documents/cv.pdf)
