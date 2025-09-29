@@ -130,12 +130,6 @@ Always learning, innovating, and building **real-world IT solutions** that merge
 
 ---
 
-## 🏔️ 3D Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### ✨ Quote to Live By  
