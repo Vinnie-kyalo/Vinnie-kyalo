@@ -1,45 +1,65 @@
-<!-- GitHub Banner Image -->
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Passionate+Programmer;🚀+Web+Designer+%26+Developer;🤖+AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h1>
 
-
+<!-- 3D banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=I+am+a+passionate+programmer+and+web+designer;" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 </p>
 
 ---
 
-### 👋 Hi there, I’m **@Vinnie-kyalo**
-
-**I am Vincent Kyalo**, a passionate **programmer**, **web designer**, **data analyst**, and **ethical hacker**.  
-
-
----
-
-### 💡 About Me
-
-- 👀 I'm interested in: **Web Development, Machine Learning, Game Development, Artificial Intelligence, and Cybersecurity**
-- 🌱 Currently learning:  
-  `Django Advanced Features`, `Fingerprint Authentication`, `Web Security`, `AI/ML Algorithms`
-- 💞️ Looking to collaborate on:  
-  `Machine Learning Projects`, `Game Development`, `Django Applications`, `APIs`, `MySQL DB`, `Ethical Hacking`
-- 📫 Reach me:  
-  [📧 Email](mailto:vinnykyalo9875@gmail.com) | [💻 GitHub](https://github.com/Vinnie-kyalo)
+## 🔥 About Me  
+- 🎓 Bachelor of Science in **Information Technology** – Pwani University  
+- 💻 Skilled in **Python, Machine Learning, Web & Mobile Development**  
+- 🛡️ Interested in **Ethical Hacking & Cybersecurity**  
+- 🚀 Always learning & building new projects  
 
 ---
 
-### 🛠️ Languages & Tools
+## ⚡ Tech Stack  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,sqlite,html,css,js,react,tailwind,git,github,linux,kali,androidstudio,kotlin&perline=8" />
+</p>
 
 ---
 
+## 🌌 GitHub Stats (with 3D Effect)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vincent44040&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent44040&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/examples/preview.gif" width="600"/>
+</p>
+
+---
+
+## 🎯 Featured Projects  
+
+🚍 **Bus Booking System (Django)**  
+💰 **Sacco Management System (Django & PHP)**  
+🏫 **School Management System (Laravel)**  
+🤖 **AI & Machine Learning Projects**  
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:vincentkyalo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vincent-kyalo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vincentkyalo.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Quote  
+
+> *"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
