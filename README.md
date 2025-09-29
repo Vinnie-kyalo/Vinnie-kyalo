@@ -1,11 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Information+Technology+Specialist;🚀+Software+%26+Network+Solutions;🤖+AI+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
-</p>
+</p> -->
 
 ---
 
@@ -128,9 +128,6 @@ Always learning, innovating, and building **real-world IT solutions** that merge
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinnie-kyalo&theme=radical&hide_border=true" height="180"/>
 </p>
 
----
-
----
 
 ### ✨ Quote to Live By  
 
