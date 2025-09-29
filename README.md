@@ -1,41 +1,131 @@
-<!-- 🎉 Profile Header -->
+<!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Passionate+Programmer;🚀+Web+Designer+%26+Developer;🤖+AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Information+Technology+Specialist;🚀+Software+%26+Network+Solutions;🤖+AI+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 </p>
 
 ---
 
-## 🔥 About Me  
-
-- 🎓 **BSc. Information Technology** – Pwani University  
-- 💻 Skilled in **Python, Django, PHP, Laravel, MySQL, AI, ML**  
-- 📱 Building **Mobile Apps (Android Studio & Kotlin)**  
-- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**  
-- 🚀 Always learning and creating impactful solutions  
+## 📇 Contact Info  
+- 📧 **Email:** vinnykyalo9875@gmail.com  
+- 🌍 **Portfolio:** [vincentkyalo.netlify.app](https://vincentkyalo.netlify.app/)  
+- 📞 **Phone:** +254 703 743 651  
+- 📍 **Location:** Nairobi, Kenya  
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
+- 🖥️ **GitHub:** [Vinnie-kyalo](https://github.com/Vinnie-kyalo)  
 
 ---
 
-## ⚡ Tech Stack  
+## 👨‍💻 Profile  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,sqlite,html,css,js,react,tailwind,git,github,linux,kali,androidstudio,kotlin,java&perline=8" />
-</p>
+Passionate IT professional with expertise in **programming, networking, system administration, and cybersecurity**. Skilled in **Python, Django, Laravel, JavaScript, Kotlin (Android)**, and modern web/mobile development.  
+
+💡 Adept at creating **scalable, responsive, and user-friendly applications**, with experience in:  
+- 🔹 Full-stack development & RESTful APIs  
+- 🔹 Cloud-integrated systems (AWS, GCP, Azure)  
+- 🔹 Networking & server administration (Linux/Windows)  
+- 🔹 Machine learning, AI, and cybersecurity solutions  
+
+Always learning, innovating, and building **real-world IT solutions** that merge **technical expertise with problem-solving**.  
+
+---
+
+## 🛠 Skills  
+
+### 💻 Programming & Development  
+- Python & Django  
+- PHP & Laravel  
+- Kotlin (Android)  
+- JavaScript, HTML, CSS  
+
+### 🗄️ Databases & Systems  
+- MySQL, SQLite3, PHPMyAdmin  
+- WAMP, XAMPP  
+- Database design & optimization  
+- Data visualization (Power BI, Python Libraries)  
+
+### 🤖 Machine Learning & AI  
+- Data preprocessing, feature engineering  
+- Model training & evaluation  
+- Applied AI solutions  
+
+### 🌐 Networking & IT Support  
+- Network installation & troubleshooting  
+- Server administration (Linux, Windows)  
+- Virtualization (VMs, WSL2, Docker)  
+
+### 🔐 Cybersecurity & Ethical Hacking  
+- Intrusion detection  
+- Penetration testing basics  
+- Linux administration & Bash scripting  
+- Kali Linux tools  
+
+### 🤝 Soft Skills  
+- Problem-solving, teamwork, adaptability  
+- Analytical thinking  
+- Continuous learning  
+- Project planning & time management  
+
+---
+
+## 🏆 Awards  
+
+- 🥇 **Cisco Networking Excellence Certificate (2025)**  
+- 🥇 **Intern Recognition (2025, Pwani University)**  
+- 🥇 **Ethical Hacking & Cybersecurity Achievement (2024, TryHackMe, RedHatAcademy)**  
+- 🥇 **Programming & Web Development Honors (2024, ISACA)**  
+- 🥇 **Open Source Contribution Award (2024, GitHub)**  
+- 🥇 **Hackathon Participation Award (2024, Ignite)**  
+
+---
+
+## 📜 Certificates  
+
+- AWS Certified Cloud Practitioner  
+- MySQL Database Administrator (Oracle/MySQL)  
+- Artificial Intelligence (AI)  
+- Ethical Hacking  
+- Linux Essentials  
+- Google Cloud Fundamentals  
+- Python Fundamentals  
+- Network Basics  
+- Computer Hardware & Troubleshooting  
+
+---
+
+## 🚀 Projects  
+
+- **Networking & Internet Installation (Pwani University, Internship)** – Configured LAN/Wi-Fi, optimized connectivity, network troubleshooting.  
+- **Bus Booking System (Django, Python, MySQL, Bootstrap)** – Online ticketing with seat selection & secure payments.  
+- **Personal Portfolio Website (HTML, CSS, JavaScript, Django)** – Responsive portfolio, deployed on Linux server.  
+- **Parkinson’s Disease Detection (Python, ML)** – Built ML models for early detection with high accuracy.  
+- **Cybersecurity & Networking Lab (Kali Linux, IDS, MQTT Broker)** – Intrusion detection & penetration testing basics.  
+
+---
+
+## 🎯 Interests  
+
+- Exploring AI, ML & cybersecurity tools  
+- Open-source contributions  
+- Networking labs & ethical hacking simulations  
+- Server administration & Linux customization  
+- Writing tech blogs & sharing knowledge  
+- Gaming & strategy problem-solving  
 
 ---
 
 ## 🌌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vincent44040&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent44040&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vincent44040&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinnie-kyalo&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -43,36 +133,11 @@
 ## 🏔️ 3D Contribution Graph  
 
 <p align="center">
-  <img src="https://github.com/Vincent44040/Vincent44040/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎯 Featured Projects  
+### ✨ Quote to Live By  
 
-🚍 **Bus Booking System (Django)**  
-💰 **Sacco Management System (Django & PHP)**  
-🏫 **School Management System (Laravel)**  
-🤖 **AI & Machine Learning Projects**  
-
----
-
-## 📬 Connect with Me  
-
-<p align="center">
-  <a href="mailto:vincentkyalo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vincent-kyalo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://vincentkyalo.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Fun Quote  
-
-> *"First, solve the problem. Then, write the code."*  
-
----
+> *"Code is like humor. When you have to explain it, it’s bad."*  
