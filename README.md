@@ -1,40 +1,53 @@
-<!-- Profile Header -->
+<!-- 🎉 Profile Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Passionate+Programmer;🚀+Web+Designer+%26+Developer;🤖+AI+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- 3D banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280"/>
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 🎓 Bachelor of Science in **Information Technology** – Pwani University  
-- 💻 Skilled in **Python, Machine Learning, Web & Mobile Development**  
-- 🛡️ Interested in **Ethical Hacking & Cybersecurity**  
-- 🚀 Always learning & building new projects  
+
+- 🎓 **BSc. Information Technology** – Pwani University  
+- 💻 Skilled in **Python, Django, PHP, Laravel, MySQL, AI, ML**  
+- 📱 Building **Mobile Apps (Android Studio & Kotlin)**  
+- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**  
+- 🚀 Always learning and creating impactful solutions  
 
 ---
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,sqlite,html,css,js,react,tailwind,git,github,linux,kali,androidstudio,kotlin&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,mysql,sqlite,html,css,js,react,tailwind,git,github,linux,kali,androidstudio,kotlin,java&perline=8" />
 </p>
 
 ---
 
-## 🌌 GitHub Stats (with 3D Effect)
+## 🌌 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vincent44040&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent44040&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vincent44040&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent44040&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/examples/preview.gif" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vincent44040&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🏔️ 3D Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/Vincent44040/Vincent44040/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -60,6 +73,6 @@
 
 ### ✨ Fun Quote  
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
+> *"First, solve the problem. Then, write the code."*  
 
 ---
