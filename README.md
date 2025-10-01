@@ -11,7 +11,7 @@
 
 ## 📇 Contact Info  
 - 📧 **Email:** vinnykyalo9875@gmail.com  
-- 🌍 **Portfolio:** [vincentkyalo.netlify.app](https://vincent-kyalo-3d-glow.vercel.app/)  
+- 🌍 **Portfolio:** [https://vincent-kyalo-3d-glow.vercel.app/](https://vincent-kyalo-3d-glow.vercel.app/)  
 - 📞 **Phone:** +254 703 743 651  
 - 📍 **Location:** Nairobi, Kenya  
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
