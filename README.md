@@ -14,7 +14,7 @@
 - 🌍 **Portfolio:** [https://vincent-kyalo-3d-glow.vercel.app/](https://vincent-kyalo-3d-glow.vercel.app/)  
 - 📞 **Phone:** +254 703 743 651  
 - 📍 **Location:** Nairobi, Kenya  
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kyalo-vincent-453087350?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 - 🖥️ **GitHub:** [Vinnie-kyalo](https://github.com/Vinnie-kyalo)  
 
 ---
