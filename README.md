@@ -1,134 +1,191 @@
-<!-- Profile Header -->
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Vincent+Kyalo;💻+Information+Technology+Specialist;🚀+Software+%26+Network+Solutions;🤖+AI+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Vincent Kyalo</h1>
+<h3 align="center">Software Engineer | Full Stack Django Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
-</p> -->
-
----
-
-## 📇 Contact Info  
-- 📧 **Email:** vinnykyalo9875@gmail.com  
-- 🌍 **Portfolio:** [https://vincent-kyalo-3d-glow.vercel.app/](https://vincent-kyalo-3d-glow.vercel.app/)  
-- 📞 **Phone:** +254 703 743 651  
-- 📍 **Location:** Nairobi, Kenya  
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kyalo-vincent-453087350?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- 🖥️ **GitHub:** [Vinnie-kyalo](https://github.com/Vinnie-kyalo)  
-
----
-
-## 👨‍💻 Profile  
-
-Passionate IT professional with expertise in **programming, networking, system administration, and cybersecurity**. Skilled in **Python, Django, Laravel, JavaScript, Kotlin (Android)**, and modern web/mobile development.  
-
-💡 Adept at creating **scalable, responsive, and user-friendly applications**, with experience in:  
-- 🔹 Full-stack development & RESTful APIs  
-- 🔹 Cloud-integrated systems (AWS, GCP, Azure)  
-- 🔹 Networking & server administration (Linux/Windows)  
-- 🔹 Machine learning, AI, and cybersecurity solutions  
-
-Always learning, innovating, and building **real-world IT solutions** that merge **technical expertise with problem-solving**.  
-
----
-
-## 🛠 Skills  
-
-### 💻 Programming & Development  
-- Python & Django  
-- PHP & Laravel  
-- Kotlin (Android)  
-- JavaScript, HTML, CSS  
-
-### 🗄️ Databases & Systems  
-- MySQL, SQLite3, PHPMyAdmin  
-- WAMP, XAMPP  
-- Database design & optimization  
-- Data visualization (Power BI, Python Libraries)  
-
-### 🤖 Machine Learning & AI  
-- Data preprocessing, feature engineering  
-- Model training & evaluation  
-- Applied AI solutions  
-
-### 🌐 Networking & IT Support  
-- Network installation & troubleshooting  
-- Server administration (Linux, Windows)  
-- Virtualization (VMs, WSL2, Docker)  
-
-### 🔐 Cybersecurity & Ethical Hacking  
-- Intrusion detection  
-- Penetration testing basics  
-- Linux administration & Bash scripting  
-- Kali Linux tools  
-
-### 🤝 Soft Skills  
-- Problem-solving, teamwork, adaptability  
-- Analytical thinking  
-- Continuous learning  
-- Project planning & time management  
-
----
-
-## 🏆 Awards  
-
-- 🥇 **Cisco Networking Excellence Certificate (2025)**  
-- 🥇 **Intern Recognition (2025, Pwani University)**  
-- 🥇 **Ethical Hacking & Cybersecurity Achievement (2024, TryHackMe, RedHatAcademy)**  
-- 🥇 **Programming & Web Development Honors (2024, ISACA)**  
-- 🥇 **Open Source Contribution Award (2024, GitHub)**  
-- 🥇 **Hackathon Participation Award (2024, Ignite)**  
-
----
-
-## 📜 Certificates  
-
-- AWS Certified Cloud Practitioner  
-- MySQL Database Administrator (Oracle/MySQL)  
-- Artificial Intelligence (AI)  
-- Ethical Hacking  
-- Linux Essentials  
-- Google Cloud Fundamentals  
-- Python Fundamentals  
-- Network Basics  
-- Computer Hardware & Troubleshooting  
-
----
-
-## 🚀 Projects  
-
-- **Networking & Internet Installation (Pwani University, Internship)** – Configured LAN/Wi-Fi, optimized connectivity, network troubleshooting.  
-- **Bus Booking System (Django, Python, MySQL, Bootstrap)** – Online ticketing with seat selection & secure payments.  
-- **Personal Portfolio Website (HTML, CSS, JavaScript, Django)** – Responsive portfolio, deployed on Linux server.  
-- **Parkinson’s Disease Detection (Python, ML)** – Built ML models for early detection with high accuracy.  
-- **Cybersecurity & Networking Lab (Kali Linux, IDS, MQTT Broker)** – Intrusion detection & penetration testing basics.  
-
----
-
-## 🎯 Interests  
-
-- Exploring AI, ML & cybersecurity tools  
-- Open-source contributions  
-- Networking labs & ethical hacking simulations  
-- Server administration & Linux customization  
-- Writing tech blogs & sharing knowledge  
-- Gaming & strategy problem-solving  
-
----
-
-## 🌌 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Django+Developer;Python+%7C+JavaScript+%7C+Docker;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinnie-kyalo&theme=radical&hide_border=true" height="180"/>
+  <a href="https://github.com/Vinnie-kyalo">
+    <img src="https://img.shields.io/github/followers/Vinnie-kyalo?label=Followers&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Vinnie-kyalo">
+    <img src="https://img.shields.io/github/stars/Vinnie-kyalo?affiliations=OWNER&style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&style=for-the-badge&color=blue">
 </p>
 
+---
 
-### ✨ Quote to Live By  
+# 💫 About Me
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
+💻 Passionate Software Engineer focused on building scalable applications.
+
+🎓 Diploma in Information Technology
+
+🚀 Currently building:
+
+- 🏫 School Management System (Django)
+- 🌐 SaaS Applications
+- 🤖 AI-powered Solutions
+- 📊 Data Analytics Dashboards
+- 🔒 Cybersecurity Projects
+
+🌱 Currently Learning
+
+- Kubernetes
+- AWS Cloud
+- DevOps
+- Machine Learning
+- Microservices
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind,react,nodejs" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,aws" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,sqlite" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏫 School Management System
+
+A complete school ERP built using Django.
+
+### Features
+
+- Student Information Management
+- Teacher Portal
+- Parent Portal
+- Attendance
+- Fees Management
+- Exams & Results
+- Timetable
+- PDF Reports
+- Excel Reports
+- Admin Dashboard
+- Authentication & Role Management
+
+---
+
+## 🌐 Vinton Technologies
+
+Building digital solutions for businesses including:
+
+- Website Development
+- Networking
+- System Administration
+- Business Automation
+- IT Consultancy
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vinnie-kyalo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinnie-kyalo&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinnie-kyalo&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📚 Currently Working On
+
+- 🚀 Multi-school SaaS Platform
+- 🏫 School Management System
+- 🤖 AI Automation
+- 🔐 Cybersecurity Projects
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/Vinnie-kyalo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/vincent-kyalo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:v.kyalo@outlook.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://vintontechnologies.co.ke">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome">
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+</p>
