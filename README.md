@@ -1,191 +1,177 @@
-<h1 align="center">Hi 👋, I'm Vincent Kyalo</h1>
-<h3 align="center">Software Engineer | Full Stack Django Developer | AI & Cloud Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Django+Developer;Python+%7C+JavaScript+%7C+Docker;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+# 👋 Hi, I'm Vincent Kyalo
+
+### Software Engineer • Full Stack Django Developer • AI Enthusiast
+
+Building modern software that solves real-world problems.
+
+<p>
+  <a href="https://github.com/Vinnie-kyalo">
+    <img src="https://img.shields.io/github/followers/Vinnie-kyalo?style=flat-square&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&style=flat-square" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Vinnie-kyalo">
-    <img src="https://img.shields.io/github/followers/Vinnie-kyalo?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Vinnie-kyalo">
-    <img src="https://img.shields.io/github/stars/Vinnie-kyalo?affiliations=OWNER&style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&style=for-the-badge&color=blue">
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-💻 Passionate Software Engineer focused on building scalable applications.
+I'm a software engineer passionate about building scalable applications, automating workflows, and creating digital solutions that make everyday tasks easier.
 
-🎓 Diploma in Information Technology
-
-🚀 Currently building:
-
-- 🏫 School Management System (Django)
-- 🌐 SaaS Applications
-- 🤖 AI-powered Solutions
-- 📊 Data Analytics Dashboards
-- 🔒 Cybersecurity Projects
-
-🌱 Currently Learning
-
-- Kubernetes
-- AWS Cloud
-- DevOps
-- Machine Learning
-- Microservices
+My primary focus is developing software that is reliable, maintainable, and user-friendly.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 What I'm Working On
+
+- 🏫 Building a modern School Management SaaS
+- 🤖 AI-powered software solutions
+- 🌍 Open Source Projects
+- ☁️ Cloud & DevOps
+- 🐳 Dockerized applications
+
+---
+
+# Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,php,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,php,html,css" />
 </p>
 
-### Frameworks
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=django,postgres,mysql,sqlite" />
 </p>
 
-### DevOps & Cloud
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,aws" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,sqlite" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ## 🏫 School Management System
 
-A complete school ERP built using Django.
+A complete school ERP built with Django.
 
 ### Features
 
 - Student Information Management
-- Teacher Portal
+- Teacher Management
 - Parent Portal
-- Attendance
-- Fees Management
-- Exams & Results
-- Timetable
+- Attendance Tracking
+- Fee Management
+- Examination & Results
 - PDF Reports
-- Excel Reports
-- Admin Dashboard
-- Authentication & Role Management
+- Excel Export
+- Analytics Dashboard
+- Role-Based Authentication
+
+**Tech**
+
+`Python` `Django` `MySQL` `Bootstrap` `Docker`
 
 ---
 
 ## 🌐 Vinton Technologies
 
-Building digital solutions for businesses including:
+Providing software development and IT solutions.
 
-- Website Development
+- Business Websites
+- Web Applications
 - Networking
-- System Administration
-- Business Automation
-- IT Consultancy
+- IT Support
+- Cloud Solutions
 
 ---
 
-# 📊 GitHub Analytics
+## 🤖 AI & Automation
+
+Projects exploring artificial intelligence, workflow automation, and machine learning.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vinnie-kyalo&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# Current Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinnie-kyalo&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinnie-kyalo&theme=tokyo-night"/>
-
-</p>
+- Build production-ready SaaS platforms
+- Contribute to Open Source
+- Master Cloud Engineering
+- Expand AI development skills
+- Build impactful software products
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vinnie-kyalo&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📚 Currently Working On
-
-- 🚀 Multi-school SaaS Platform
-- 🏫 School Management System
-- 🤖 AI Automation
-- 🔐 Cybersecurity Projects
-
----
-
-# 📫 Connect With Me
+# Let's Connect
 
 <p>
 
 <a href="https://github.com/Vinnie-kyalo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+GitHub
 </a>
+
+•
 
 <a href="https://www.linkedin.com/in/vincent-kyalo">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+LinkedIn
 </a>
+
+•
 
 <a href="mailto:v.kyalo@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://vintontechnologies.co.ke">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome">
+Email
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
+### 💡 Favorite Quote
+
+*"The best software doesn't just work—it improves people's lives."*
 
 ---
 
-<p align="center">
+⭐ Thanks for visiting my profile.
 
-### Thanks for visiting my profile ❤️
-
-</p>
+</div>
