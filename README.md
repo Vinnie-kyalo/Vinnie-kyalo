@@ -1,51 +1,57 @@
 <!-- ========================================================= -->
-<!--                    GITHUB PROFILE README                  -->
+<!--                  VINCENT KYALO GITHUB PROFILE             -->
 <!-- ========================================================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Vincent+Kyalo;Software+Engineer;Full+Stack+Django+Developer;AI+%7C+Cloud+%7C+Cybersecurity+Enthusiast;Building+Software+That+Creates+Impact" />
-</h1>
+<div align="center">
 
-<p align="center">
+# 👋 Hi, I'm Vincent Kyalo
 
-<img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&label=Profile+Views&color=00bfff&style=for-the-badge"/>
+### Software Engineer • Full Stack Django Developer • AI & Cloud Enthusiast
 
-<img src="https://img.shields.io/github/followers/Vinnie-kyalo?style=for-the-badge&color=blue&label=Followers"/>
+Building software that solves real-world problems.
 
-<img src="https://img.shields.io/github/stars/Vinnie-kyalo?style=for-the-badge&color=yellow&label=Stars"/>
+<p>
+<a href="https://github.com/Vinnie-kyalo">
+<img src="https://img.shields.io/github/followers/Vinnie-kyalo?style=for-the-badge&logo=github&color=0A66C2"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&style=for-the-badge&color=0A66C2"/>
+
+<a href="https://github.com/Vinnie-kyalo">
+<img src="https://img.shields.io/github/stars/Vinnie-kyalo?style=for-the-badge&color=F7B500"/>
+</a>
 
 </p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Django+Developer;Building+Modern+Web+Applications;AI+%7C+Cloud+%7C+Cybersecurity;Always+Learning+Something+New"/>
 
-# 👨‍💻 About Me
-
-I'm **Vincent Kyalo**, a Software Engineer from **Kenya 🇰🇪** passionate about building scalable software, modern web applications, AI-powered solutions, and cloud-ready systems.
-
-I enjoy transforming ideas into real products that solve everyday problems through clean architecture and great user experience.
-
-Currently focused on building production-ready applications while continuously learning modern software engineering practices.
+</div>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 About Me
 
-- 🏫 Building a **School Management SaaS**
-- 🤖 Artificial Intelligence & Automation
-- ☁️ Cloud Computing (AWS & Azure)
+I'm a passionate **Software Engineer** from **Kenya 🇰🇪** with experience building modern web applications using Python and Django.
+
+I enjoy designing scalable software, solving real-world problems, and learning new technologies.
+
+### Currently working on
+
+- 🏫 School Management SaaS
+- 🤖 Artificial Intelligence Projects
+- ☁️ Cloud Engineering
 - 🐳 Docker & DevOps
-- 🔐 Cybersecurity & Linux
-- 🌍 Open Source Contributions
+- 🔐 Cybersecurity
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,kotlin"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,php,kotlin,html,css"/>
 
 </p>
 
@@ -61,23 +67,15 @@ Currently focused on building production-ready applications while continuously l
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 
 </p>
 
-### DevOps & Cloud
+### DevOps & Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,aws"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman"/>
 
 </p>
 
@@ -87,22 +85,22 @@ Currently focused on building production-ready applications while continuously l
 
 ## 🏫 School Management System
 
-A complete cloud-ready School ERP built using Django.
+A complete School ERP built with Django.
 
 ### Features
 
-- 👨‍🎓 Student Management
-- 👩‍🏫 Teacher Management
-- 👨‍👩‍👧 Parent Portal
-- 📅 Attendance System
-- 💰 Fee Management
-- 📝 Examination & Results
-- 📊 Analytics Dashboard
-- 📄 PDF Reports
-- 📈 Excel Export
-- 🔐 Role-Based Authentication
+- Student Management
+- Teacher Portal
+- Parent Portal
+- Attendance Management
+- Examination & Results
+- Fee Management
+- Analytics Dashboard
+- PDF Reports
+- Excel Export
+- Role-Based Authentication
 
-**Tech**
+**Technology**
 
 `Python` • `Django` • `MySQL` • `Bootstrap` • `Docker`
 
@@ -110,72 +108,56 @@ A complete cloud-ready School ERP built using Django.
 
 ## 🌐 Vinton Technologies
 
-Professional software development and IT solutions.
+Providing software development and IT solutions.
 
 - Business Websites
-- Custom Web Applications
-- IT Consultancy
-- Networking Solutions
+- Web Applications
+- Networking
 - System Administration
+- Technical Support
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-Developing intelligent systems using machine learning and data-driven solutions.
+Exploring intelligent systems using AI and data-driven solutions.
 
-Areas of interest include:
-
+- Machine Learning
+- Automation
 - Data Analysis
-- Predictive Models
-- AI Automation
 - Computer Vision
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinnie-kyalo&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vinnie-kyalo&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinnie-kyalo&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-✅ Launch School Management SaaS
-
-✅ Contribute to Open Source
-
-✅ Learn Kubernetes
-
-✅ Master Cloud Engineering
-
-✅ Build AI-powered Products
+- 🚀 Launch School Management SaaS
+- 🤝 Contribute to Open Source
+- ☁️ Master Cloud Engineering
+- 🐳 Improve DevOps Skills
+- 🤖 Build AI-powered Applications
 
 ---
 
@@ -203,11 +185,11 @@ Areas of interest include:
 
 ---
 
-# 💬 Quote
+# 💡 Quote
 
 <div align="center">
 
-> **"Great software isn't measured by the number of lines written, but by the problems it solves."**
+> **"Building software that creates opportunities and solves real-world problems."**
 
 </div>
 
@@ -217,8 +199,8 @@ Areas of interest include:
 
 ### ⭐ Thanks for visiting my profile!
 
-If you enjoy my work, consider following me and checking out my repositories.
+If you like my work, consider following me and exploring my repositories.
 
-🚀 *Always building. Always learning.*
+🚀 **Always Building • Always Learning • Always Improving**
 
 </div>
