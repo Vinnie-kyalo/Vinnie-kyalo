@@ -17,10 +17,6 @@ Building software that solves real-world problems.
 
 <img src="https://komarev.com/ghpvc/?username=Vinnie-kyalo&style=for-the-badge&color=0A66C2"/>
 
-<a href="https://github.com/Vinnie-kyalo">
-<img src="https://img.shields.io/github/stars/Vinnie-kyalo?style=for-the-badge&color=F7B500"/>
-</a>
-
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Django+Developer;Building+Modern+Web+Applications;AI+%7C+Cloud+%7C+Cybersecurity;Always+Learning+Something+New"/>
@@ -31,14 +27,14 @@ Building software that solves real-world problems.
 
 # 🚀 About Me
 
-I'm a passionate **Software Engineer** from **Kenya 🇰🇪** with experience building modern web applications using Python and Django.
+I'm a passionate **Software Engineer** from **Kenya 🇰🇪** with experience building modern web applications using **Python**, **Django**, and cloud technologies.
 
-I enjoy designing scalable software, solving real-world problems, and learning new technologies.
+I enjoy designing scalable software, solving real-world problems, and continuously learning emerging technologies.
 
-### Currently working on
+### 🌱 Currently Working On
 
 - 🏫 School Management SaaS
-- 🤖 Artificial Intelligence Projects
+- 🤖 AI & Machine Learning Projects
 - ☁️ Cloud Engineering
 - 🐳 Docker & DevOps
 - 🔐 Cybersecurity
@@ -50,38 +46,30 @@ I enjoy designing scalable software, solving real-world problems, and learning n
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,javascript,php,kotlin,html,css"/>
-
 </p>
 
 ### Frameworks
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind"/>
-
 </p>
 
 ### Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
-
 </p>
 
 ### DevOps & Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,vscode,postman"/>
-
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🏫 School Management System
 
@@ -89,18 +77,18 @@ A complete School ERP built with Django.
 
 ### Features
 
-- Student Management
-- Teacher Portal
-- Parent Portal
-- Attendance Management
-- Examination & Results
-- Fee Management
-- Analytics Dashboard
-- PDF Reports
-- Excel Export
-- Role-Based Authentication
+- 👨‍🎓 Student Management
+- 👩‍🏫 Teacher Management
+- 👨‍👩‍👧 Parent Portal
+- 📅 Attendance Tracking
+- 💰 Fee Management
+- 📝 Examination & Results
+- 📊 Analytics Dashboard
+- 📄 PDF Reports
+- 📈 Excel Export
+- 🔐 Role-Based Authentication
 
-**Technology**
+**Built With**
 
 `Python` • `Django` • `MySQL` • `Bootstrap` • `Docker`
 
@@ -108,56 +96,35 @@ A complete School ERP built with Django.
 
 ## 🌐 Vinton Technologies
 
-Providing software development and IT solutions.
+Providing modern IT solutions including:
 
-- Business Websites
-- Web Applications
-- Networking
-- System Administration
-- Technical Support
+- 🌍 Web Development
+- 💼 Business Applications
+- 🌐 Networking Solutions
+- 🖥️ System Administration
+- ☁️ Cloud Services
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-Exploring intelligent systems using AI and data-driven solutions.
+Building intelligent applications using:
 
 - Machine Learning
+- Artificial Intelligence
 - Automation
-- Data Analysis
+- Data Analytics
 - Computer Vision
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vinnie-kyalo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinnie-kyalo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinnie-kyalo&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
 # 🎯 Goals for 2026
 
-- 🚀 Launch School Management SaaS
-- 🤝 Contribute to Open Source
-- ☁️ Master Cloud Engineering
-- 🐳 Improve DevOps Skills
-- 🤖 Build AI-powered Applications
+- 🚀 Launch a Multi-School SaaS Platform
+- 🤝 Contribute to Open Source Projects
+- ☁️ Earn Cloud Certifications
+- 🐳 Master Docker & Kubernetes
+- 🤖 Build Production AI Applications
 
 ---
 
@@ -185,7 +152,7 @@ Exploring intelligent systems using AI and data-driven solutions.
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
 <div align="center">
 
@@ -197,10 +164,10 @@ Exploring intelligent systems using AI and data-driven solutions.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-If you like my work, consider following me and exploring my repositories.
+If you like my work, consider ⭐ starring my repositories and following my GitHub journey.
 
-🚀 **Always Building • Always Learning • Always Improving**
+### 🚀 Always Building • Always Learning • Always Improving
 
 </div>
